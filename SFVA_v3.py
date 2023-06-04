@@ -148,6 +148,7 @@ def get_NAA_loss(opt_operations,weights,base_feature):
     return loss
 
 
+ """the loss function for SFVA"""
 def get_patch_loss(opt_operations,weights):
     loss = 0
 
