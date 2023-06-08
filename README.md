@@ -1,4 +1,4 @@
-# Crafting transferable adversarial examples via contaminating the salient feature variance (Information Sciences)##
+# Crafting transferable adversarial examples via contaminating the salient feature variance (Information Sciences)
 ## Requirements
 
 - Python 3.6.8
