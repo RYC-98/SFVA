@@ -13,4 +13,6 @@
 You should download the  pretrained models from ( https://github.com/tensorflow/models/tree/master/research/slim, and https://github.com/tensorflow/models/tree/archive/research/adv_imagenet_models) before running the code. Then place these model checkpoint files in `./models_tf`.
 
 ## Main Results
+Number of copies $N$ is set to 25.
+
 ![Results](https://github.com/RYC-98/SFVA/blob/main/Table1.png)
